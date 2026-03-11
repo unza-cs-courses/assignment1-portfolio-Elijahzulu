@@ -127,22 +127,22 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** [Elijah Zulu]
+**Student ID:** [2021385299]
+**Design Theme:** [it has a dark theme or colour style with a dark navy background, with just a minimalististic feel to it]
 
 ### CSS Techniques Used
-- [ ] CSS Custom Properties
-- [ ] Flexbox
-- [ ] CSS Grid
-- [ ] Media Queries
-- [ ] Other: _______________
+- [*] CSS Custom Properties
+- [*] Flexbox
+- [*] CSS Grid
+- [*] Media Queries
+- [*] Other: _keyframes_____animations_________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+[it was a bit difficult to make the project cards 2 columns on dsktop while displaying a single column on mobile. so i just used grid-column: span 2 in desktop @media ]
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
+[images just from my camera roll ]
 
 ---
 
